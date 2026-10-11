@@ -15,7 +15,7 @@
 | [Esp32-S3-N16R8](https://www.electronicadiy.com/products/placa-de-desarrollo-wifi-bluetooth-esp32-s3-n16r8?variant=48511995019522) | Microcontroller of the project | 1 | $15.32 | $15.32 | [Electronica DIY](https://www.electronicadiy.com/products/placa-de-desarrollo-wifi-bluetooth-esp32-s3-n16r8?variant=48511995019522) |
 | [Oled screen 1.3" SH1106 I2C](https://www.electronicadiy.com/products/pantalla-oled-1-3-sh1106?variant=43320054612226) | Screen to display the eyes of the PW | 1 | $11.26 | $11.26 | [Electronica DIY](https://www.electronicadiy.com/products/pantalla-oled-1-3-sh1106?variant=43320054612226) |
 | **Parts subtotal** | — | — | — | **$26.58** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$26.58** | — |
+| **Tax & shipping** | — | — | — | **$2.62** | — |
+| **Total** | — | — | — | **$29.20** | — |
 
-$3.42 left of the tier's funding.
+$0.80 left of the tier's funding.
