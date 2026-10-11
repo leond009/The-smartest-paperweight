@@ -1,0 +1,120 @@
+(footprint "AMS1117"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "ec8a0791-ea5e-448c-9ecf-692f30f20fa7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "AMS1117"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "62cb4853-05a7-49da-8b02-fec318056fc2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "75f55b95-59d6-4a22-9c06-e8094d10a5ea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b3e40feb-1087-4aff-bbb9-dbd00fb77ba9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -4.3 -6.165)
+		(end 4.3 6.165)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "7b50239f-e8be-4afe-9f30-30544807ac7f")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "ed58a7e5-98ea-4a52-b79b-0bc50d25feb9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at -2.54 5.08)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "ae223037-d6d3-4a2c-9dba-4444c23e5ae8")
+	)
+	(pad "2" thru_hole roundrect
+		(at 0 5.08)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "b6fa0b98-1d5d-41c6-91ff-075712de8ade")
+	)
+	(pad "3" thru_hole roundrect
+		(at 2.54 5.08)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "cc70b15b-c77e-4197-8069-d3b6d95528d5")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/estua/Downloads/Module_AMS1117_3_Pin.stp"
+		(offset
+			(xyz 0 -5 0)
+		)
+		(scale
+			(xyz 1 1 0.1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

@@ -1,0 +1,137 @@
+(footprint "Battery"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d71ad4a1-e48b-41fc-a3cc-cfc26eb638b0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Battery"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a16f17dd-0905-4ecf-8cea-2cf2c2a2daa4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "61f032ed-861a-4d66-9c3a-4fdf1f5e6d62")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9b42a098-1654-4a33-af6d-d0de793a524f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -3 -5)
+		(end 3 -1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "af811190-c080-4bf7-840f-ceb15e4ecf89")
+	)
+	(fp_text user "+"
+		(at -2 -2 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "30a8ed5b-3646-4ae7-b65d-69c878f0594c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "-"
+		(at 1 -2 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "0c704d86-55e1-48a3-9c8e-4c00a26a9e40")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "ce76e763-3f91-4fb3-b050-cc97abf064dc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 2 -4)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "596aa817-1891-4bfa-b925-bf70663a1d40")
+	)
+	(pad "2" thru_hole roundrect
+		(at -2 -4)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "d1dd1ad4-87b4-4d32-8120-d4c28627303b")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/estua/Downloads/LiPo battery 500 mAh.stp"
+		(offset
+			(xyz 0.5 -7.5 0)
+		)
+		(scale
+			(xyz 0.4 0.5 0.6)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

@@ -1,0 +1,159 @@
+(footprint "RGB LEd"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "9b01104e-92a7-460f-bd7f-6bfe5931d346")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "RGB LEd"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "e888b002-57af-47da-a9b2-2ebeb78df93b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "acdf32a1-339a-4fc4-83d1-1903aedfd88a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a86036d1-3fe5-415a-aae5-bdcf74a59b2b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -4 -2)
+		(end -4 -6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "602d4328-4134-4474-a2c1-586f222f14e2")
+	)
+	(fp_line
+		(start -4 -2)
+		(end 6 -2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "0dd56785-6e77-4cf0-b66b-90d8c5121973")
+	)
+	(fp_line
+		(start 6 -6)
+		(end 6 -2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "76a6a497-5406-4642-a605-786804658007")
+	)
+	(fp_arc
+		(start -4 -6)
+		(mid 1 -11)
+		(end 6 -6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b9481721-fcbb-4fc2-90ff-6e1aaaaf267b")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "36f06856-f87f-4e6b-bfe0-f04e70ae621a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at -2 0)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "b223efe2-cba2-48e9-baac-bcb8feaf186b")
+	)
+	(pad "2" thru_hole roundrect
+		(at 0 0)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "167f3b5e-d16b-4078-9f99-bfe87f34b976")
+	)
+	(pad "3" thru_hole roundrect
+		(at 2 0)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "6242092c-baf9-4785-a4e3-a79272f60b8d")
+	)
+	(pad "4" thru_hole roundrect
+		(at 4 0)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "ca23819b-3846-476a-a315-96e1b91ee1aa")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/estua/Downloads/Led RGB 5mm.STEP"
+		(offset
+			(xyz 1 0 0)
+		)
+		(scale
+			(xyz 1 0.1001 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
