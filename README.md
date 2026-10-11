@@ -14,3 +14,5 @@ The project features:
 ~ An AMS1117 for power modulation
 
 Here are some pictures of the project!
+![Fornt of the PCB](ThesmpwFRONT.png)
+![Back of the PCB](ThesmpwBACK.png)
