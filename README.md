@@ -2,7 +2,7 @@
 
 Hi there! Im happy to present you the smartest paperweight ever!
 
-The name is an oxymoron bc esseantialy the project is a mere distraction or fun toy, not necesarrily something that adds any valua. (Unless it is crucial for you to read the weather through the very precise metric of digital googly eyes).
+As the name suggests, the project is a hockey puck sized thing(?) that you can interact with it. Essentially, it features many sensors to detect what is going on around it and reacts accordingly to each change (Specifically, to temperature, humidity, light and motion). This project is meant to be kept as a small companion on your desk and keep you company through its OLED screen and RBG led. The idea came to me after seeing the MESS i had in my desk and realizing that even inanimate object that don't really serve a purpose can also bee companions, and i took that idea to the next level.
 
 Here is a thourough description of what each component does:
 
@@ -23,3 +23,6 @@ Components that the user interacts with:
 Here are some pictures of the project!
 ![Fornt of the PCB](ThesmpwFRONT.png)
 ![Back of the PCB](ThesmpwBACK.png)
+
+PARTS LIST
+
