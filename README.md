@@ -24,5 +24,12 @@ Here are some pictures of the project!
 ![Fornt of the PCB](ThesmpwFRONT.png)
 ![Back of the PCB](ThesmpwBACK.png)
 
-PARTS LIST
+PARTS LIST of the funding list
+| [Esp32-S3-N16R8](https://www.electronicadiy.com/products/placa-de-desarrollo-wifi-bluetooth-esp32-s3-n16r8?variant=48511995019522) | Microcontroller of the project | 1 | $15.32 | $15.32 | [Electronica DIY](https://www.electronicadiy.com/products/placa-de-desarrollo-wifi-bluetooth-esp32-s3-n16r8?variant=48511995019522) |
+| [Oled screen 1.3" SH1106 I2C](https://www.electronicadiy.com/products/pantalla-oled-1-3-sh1106?variant=43320054612226) | Screen to display the eyes of the PW | 1 | $11.26 | $11.26 | [Electronica DIY](https://www.electronicadiy.com/products/pantalla-oled-1-3-sh1106?variant=43320054612226) |
 
+OTHER PARTS (that i already had lol)
+| [TP4056](https://www.electronicadiy.com/products/modulo-de-carga-tp4056-con-proteccion) | Charging | 1 | $1.00 | $1.00 | [Electronica DIY](https://www.electronicadiy.com/products/modulo-de-carga-tp4056-con-proteccion) |
+| [AMS1117](https://www.electronicadiy.com/products/convertidor-de-voltaje-5v-a-3-3v-ams1117?_pos=2&_sid=f3598c96b&_ss=r) | Power regulation| 1 | $0.50 | $0.50 | [Electronica DIY](https://www.electronicadiy.com/products/convertidor-de-voltaje-5v-a-3-3v-ams1117?_pos=2&_sid=f3598c96b&_ss=r) |
+| [DHT111](https://www.electronicadiy.com/products/sensor-de-temperatura-y-humedad-dht11-ky-015?_pos=1&_sid=ee95e7ec1&_ss=r) | Temperature and Humidity sensor| 1 | $3.00 | $3.00 | [Electronica DIY](https://www.electronicadiy.com/products/sensor-de-temperatura-y-humedad-dht11-ky-015?_pos=1&_sid=ee95e7ec1&_ss=r) |
+Resistors and minor extra components are not disclosed, everyone has one laying around haha
